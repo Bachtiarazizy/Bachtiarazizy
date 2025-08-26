@@ -20,6 +20,6 @@ I specialize in building modern, responsive, and user-friendly websites with a s
 - [Javell Furniture](https://javellfurniture.com) – WordPress + WooCommerce  
 
 ## 📫 Let's Connect
-- Upwork: [Your Upwork Profile Link]
-- LinkedIn: [Your LinkedIn Link]
-- Email: [Your Email]
+- Upwork: https://www.upwork.com/freelancers/~01cde55f91473ab9bc
+- LinkedIn: https://www.linkedin.com/in/hari-bachtiar-azizy
+- Email: bachtiarazizy@gmail.com
