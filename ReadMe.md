@@ -20,13 +20,13 @@ Previously contributed as a volunteer web developer for PPI Türkiye and PPI Dun
 
 **Frontend**
 ```
-Next.js · React.js · JavaScript (ES6+) · HTML5 · CSS3
-Tailwind CSS · GSAP · Responsive Design · Flexbox / Grid
+Next.js · React.js · JavaScript (ES6+) · HTML5 · CSS3 
+Tailwind CSS · GSAP · Responsive Design · Flexbox / Grid · Framer motion
 ```
 
 **CMS & Backend**
 ```
-Sanity CMS · WordPress · WooCommerce · Prisma · PostgreSQL
+Sanity CMS · WordPress · WooCommerce · Prisma · PostgreSQL · MySQL
 ```
 
 **Design**
